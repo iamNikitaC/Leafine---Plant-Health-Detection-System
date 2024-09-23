@@ -1,0 +1,1 @@
+The application can help farmers and crop growers, who have little or no understanding of plant diseases, to detect and control plant illness early, reducing losses and preventing disease spread. The application is developed using Python, Java and CNN Model.
